@@ -3,7 +3,7 @@ Hi, I'm Kacper and I currently work as an automation engineer. In my free time, 
 
 Skills: JavaScript / TypeScript / Node / Express / React / SQL  / Jest / HTML / CSS
 
-- 🔭 I’m currently working on project which will help you take care of your flowers: https://yourflowerscare.networkmanager.pl/flower
+- 🔭 I’m currently working on project which will help you take care of your flowers: https://yourflowerscare.networkmanager.pl/login
 - 🌱 Currently learning NestJS and React Redux. 
 - 📫 Mail me: kowalski.k.1997@gmail.com 
 
