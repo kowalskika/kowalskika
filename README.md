@@ -7,4 +7,3 @@ Skills: JavaScript / TypeScript / Node / Express / React / SQL  / Jest / HTML / 
 - 🌱 Currently learning NestJS and React Redux. 
 - 📫 Mail me: kowalski.k.1997@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
